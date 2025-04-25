@@ -47,8 +47,11 @@ Update and export your API keys:
 import os
 
 os.environ["OPENAI_API_KEY"] = "your_openai_key"
+
 os.environ["NEO4J_URI"] = "your_neo4j_uri"
+
 os.environ["NEO4J_USERNAME"] = "your_neo4j_username"
+
 os.environ["NEO4J_PASSWORD"] = "your_neo4j_password"
 
 ## 4. Run the Chatbot
