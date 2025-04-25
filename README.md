@@ -2,18 +2,19 @@
 🔍 NextGenCareers – AI-Powered Career Guidance Chatbot
 NextGenCareers is an AI-based chatbot that assists students and professionals with personalized career guidance. It helps users explore job roles, skills, certifications, and online resources based on their interests using advanced AI and graph-based knowledge retrieval.
 
-🚀 Features
-🔎 Retrieval-Augmented Generation (RAG) with LangChain
+# Features
 
-🤖 Real-time responses powered by OpenAI GPT (gpt-3.5-turbo)
+Retrieval-Augmented Generation (RAG) with LangChain
 
-📚 Hybrid search using Neo4j AuraDB for structured graph data
+Real-time responses powered by OpenAI GPT (gpt-3.5-turbo)
 
-💬 Streamlit frontend for interactive user experience
+Hybrid search using Neo4j AuraDB for structured graph data
 
-🧠 Entity extraction for smart understanding of career questions
+Streamlit frontend for interactive user experience
 
-🛠 Technologies Used
+Entity extraction for smart understanding of career questions
+
+# Technologies Used
 Python
 
 LangChain
@@ -26,7 +27,7 @@ OpenAI API
 
 GitHub + Colab
 
-📦 Setup Instructions
+# Setup Instructions
 1. Clone the Repository
 bash
 Copy
@@ -59,14 +60,14 @@ Edit
 streamlit run app.py
 The Streamlit app will open in your browser. Ask your career questions!
 
-💡 Try Sample Questions
+# Try Sample Questions
 “What are the best certifications for a DevOps engineer?”
 
 “Which platforms can I use to learn machine learning?”
 
 “Suggest a path to become a cloud architect.”
 
-👨‍💻 Contributors
+# Contributors
 Siva Pavan Kumar Chava
 
 Anjali Erupaka
